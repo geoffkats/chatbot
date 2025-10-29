@@ -1,0 +1,5 @@
+{
+  "name": "AI WhatsApp Receptionist",
+  "description": "An AI-powered virtual receptionist to handle customer inquiries, schedule appointments, and collect leads via a simulated WhatsApp interface. The application features a dashboard to view conversations, manage leads, and update a knowledge base of FAQs.",
+  "requestFramePermissions": []
+}
